@@ -1,7 +1,8 @@
 # Credit Risk Analysis
 
 
-## Purpose: The purpose of this analysis was to use the sci-kit-learn and imbalanced-learn libraries to create multiple machine learning models to help predict credit risk.
+## Purpose:
+The purpose of this analysis was to use the sci-kit-learn and imbalanced-learn libraries to create multiple machine learning models to help predict credit risk.
 
 ## Data and Process
 
